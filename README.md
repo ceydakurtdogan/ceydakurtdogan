@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceydakurtdogan&label=Profile%20views&color=0e75b6&style=flat" alt="ceydakurtdogan" /> </p>
 
-- 🌱 I’m currently learning **HavaScript,React,PHP**
+- 🌱 I’m currently learning **JavaScript,React,PHP..**
 
 - 📫 How to reach me **ceydakurtdogan@gmail.com**
 
